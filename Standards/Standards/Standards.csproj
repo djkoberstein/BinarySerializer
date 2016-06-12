@@ -43,7 +43,7 @@
     <Compile Include="BinaryReaderExtensions.cs" />
     <Compile Include="BinarySerializer.cs" />
     <Compile Include="BinaryWriterExtensions.cs" />
-    <Compile Include="NGA\DTED\DTED.cs" />
+    <Compile Include="NGA\DTED\UserHeaderLabel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
